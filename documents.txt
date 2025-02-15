@@ -1,0 +1,106 @@
+An Introduction'to Computing
+with Neural Nets
+Richard P
+Lippmann
+Abstract using massively parallel nets composed of many computa-
+4 IEEEASSPMAGAZINEAPRIL 1987 0740-7467/87/0400-0004/$01
+OO 01987 IEEE
+111
+Welcome to
+ECE5424 CS5824
+Advanced Machine Learning
+Instructor: (Joseph) Yue Wang, Ph
+D
+Bradley Dept
+of Electrical & Computer Engineering
+Virginia Polytechnic Institute and State University
+Call me “Joseph”, no Dr
+!
+Outline
+Textbook(s):
+Pattern Classification (2nd ed) by R
+O
+Duda, P
+E
+Hart and D
+G
+Stork, John Wiley & Sons, 2000
+T Hastie, R
+Tibshirani, and J
+Friedman, The Elements of
+Statistical Learning, Springer, 2001
+Simon Haykin, Neural Networks: A Comprehensive Foundation,
+Prentice-Hall, Inc
+, 1999
+Hyvarinen, A
+, Karhunen, J
+& Oja, E
+Independent Component
+Analysis, John Wiley, New York, 2001
+2
+This course will cover supervised learning, pattern
+classification, neural networks, support vector machine,
+unsupervised learning, cluster analysis, feature discovery,
+cross-validation, principal component analysis, independent
+component analysis, and matrix factorization with an
+emphasis on the strategic frontier between machine
+learning and big-data sciences
+The course is theoretical,
+practical, and challenging in nature
+Major effort will be
+made to present applications in the areas of computer-
+aided decision making, big data analytics, human genome
+data, and biomedical imaging
+3
+Introduction to statistical and machine learning theory,
+statistical decision principles, linear discriminant analysis,
+Fisher criterion, single and multilayer perceptrons, radial
+basis function neural networks, support vector machine,
+feature selection, cross-validation, bootstrap and
+permutation re-sampling; principal component analysis, self-
+organizing maps, mixture model and data clustering,
+principal/independent component analysis, matrix
+factorization
+Reading completion and homework 30%
+Term paper proposal 20%
+Final term paper 50%
+4
+College mathematics
+ECE5605 Stochastic Signal Processing
+Information Theory
+Signal Detection and Estimation
+Machine Learning
+Adaptive Signal Processing
+Data Mining
+Digital Signal and Image Processing
+Computer Vision and Graphics
+Data and Information Visualization
+5
+Introduction
+6
+Signal Detection and Estimation
+7
+8
+9
+10
+11
+Basic AML tasks and issues
+Supervised learning from data
+learning class conditional or posterior probability
+Learning decision boundary by partitioning space
+Selection of relevant features
+Predictive classification by trained classifiers
+The curse of dimensionality and the bias/variance
+dilemma (sample size vs dimensionality)
+Cross-validation schemes (expected performance)
+Bootstrap re-sampling (stability/uncertainty)
+12
+Basic PR tasks and issues
+Unsupervised learning from data
+Data clustering for cluster discovery
+Learning the number of clusters (model selection)
+Selection of relevant features
+Principal component analysis (PCA)
+Independent component analysis (ICA)
+Convex analysis of mixtures (CAM)
+Non-negative matrix factorization (NMF)
